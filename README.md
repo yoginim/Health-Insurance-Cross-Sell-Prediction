@@ -36,4 +36,4 @@ The Test dataset consists of following columns:
 13. Reco_Policy_Premium
 14. Rsponse
 
-#### You can find thi dataset on : https://www.kaggle.com/imsparsh/jobathon-analytics-vidhya
+#### You can find this dataset on : https://www.kaggle.com/imsparsh/jobathon-analytics-vidhya
